@@ -1,6 +1,6 @@
 # Text-to-Speech Script
 
-This project is a Python-based script that processes an article from a URL, extracts its paragraphs, converts them into audio files, and allows the user to listen to them interactively. The goal was to create a dynamic, user-friendly, and well-structured program while handling potential issues like unwanted captions or errors during execution. Ths first version of this project is in spanish (my main language), then I made another version in english to ensure that all users can understand it.
+This project is a Python-based script that processes an article from a URL, extracts its paragraphs, converts them into audio files, and allows the user to listen to them interactively. The goal was to create a dynamic, user-friendly, and well-structured program while handling potential issues like unwanted captions or errors during execution. The first version of this project is in spanish (my main language), then I made another version in english to ensure that all users can understand it.
 
 ---
 
