@@ -1,16 +1,16 @@
-# Text-to-Speech Script
+# Text-to-Speech Script 🗣️
 
 This project is a Python-based script that processes an article from a URL, extracts its paragraphs, converts them into audio files, and allows the user to listen to them interactively. The goal was to create a dynamic, user-friendly, and well-structured program while handling potential issues like unwanted captions or errors during execution. The first version of this project is in spanish (my main language), then I made another version in english to ensure that all users can understand it.
 
 ---
 
-## Learning Context
+## Learning Context 📚
 
 This was built during my third month of learning Python (April 2025), after completing a series of beginner-level scripting exercises. It marks a step up in using third-party libraries and modular design.
 
 ---
 
-## How to Run the Script
+## How to Run the Script 🛠️
 
 1. **Install Dependencies**:
    - Ensure you have Python installed on your machine.
@@ -19,7 +19,7 @@ This was built during my third month of learning Python (April 2025), after comp
      pip install newspaper3k gTTS pygame
      ```
 
-2. **Run the Script**:
+2. **Run the Script**: 
    - Execute the script by running the following command in your terminal (make sure to be in the right folder):
      ```
      python Text_to_speech.py
@@ -30,7 +30,7 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## Features
+## Features ✨
 
 1. **Dynamic Paragraph Processing**:
    - Extracts paragraphs dynamically from an article using `newspaper3k`.
@@ -57,7 +57,7 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## Tools and Libraries Used
+## Tools and Libraries Used 🧰
 
 1. **`newspaper3k`**:
    - Used to scrape and parse the article's content from a given URL.
@@ -79,7 +79,7 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## Challenges Encountered and Solutions
+## Challenges Encountered and Solutions 🧩
 
 ### Challenge 1: Handling Unwanted Captions
    - **Challenge**: Some paragraphs extracted by `newspaper3k` were captions for images, not actual content.
@@ -107,7 +107,7 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## What I Learned
+## What I Learned 👨‍🎓
 
 1. **Using Libraries Effectively**:
    - Deepened understanding of `newspaper3k`, `gTTS`, and `pygame`, learning how to integrate them seamlessly into a project.
@@ -126,7 +126,7 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## Conclusion
+## Conclusion 📝
 
 This project was a great opportunity to apply tools and concepts like loops, conditionals, error handling, and modular programming. By combining multiple libraries and solving real-world challenges, I created a dynamic and interactive script that processes articles, generates audio files, and allows users to engage with the content in a unique way.
 
