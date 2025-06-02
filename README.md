@@ -10,17 +10,6 @@ This was built during my third month of learning Python (April 2025), after comp
 
 ---
 
-## Project Structure
-
-```
-text_to_speech/
-├── Text_to_speech.py   # Main script for processing articles and generating audio
-├── Recap.txt           # Recap of the project, challenges, and solutions
-└── README.md           # Project documentation
-```
-
----
-
 ## How to Run the Script
 
 1. **Install Dependencies**:
